@@ -1,6 +1,6 @@
 function Reactkro(){
     return(
-        <h3>react is working</h3>
+        <h3>Hello, World from react.jsx</h3>
     )
 }
 
